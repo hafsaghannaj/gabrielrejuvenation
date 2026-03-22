@@ -275,6 +275,7 @@ const ctaButtons = [
   document.getElementById("heroCTA"),
   document.getElementById("heroVisualCTA"),
   document.getElementById("tabCTA"),
+  document.getElementById("aboutCTA"),
 ];
 
 ctaButtons.forEach((btn) => {

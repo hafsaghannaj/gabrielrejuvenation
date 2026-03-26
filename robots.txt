@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hafsaghannaj.github.io/gabrielrejuvenation/sitemap.xml
